@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ### ✍️ About me
 
@@ -34,7 +34,7 @@ LinkedIn: www.linkedin.com/in/barbarakogus
 
 <div>
   <a href="https://github.com/barbarakogus">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbarakogus&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarakogus&layout=compact&langs_count=16&theme=default"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=barbarakogus&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarakogus&layout=compact&langs_count=16&theme=default"/>
   </a>
 </div>
