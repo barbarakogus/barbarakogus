@@ -32,6 +32,8 @@ LinkedIn: www.linkedin.com/in/barbarakogus
   </a>
 </p><br>
 
+![Snake animation](https://github.com/barbarakogus/barbarakogus/blob/output/github-contribution-grid-snake.svg)
+
 <div>
   <a href="https://github.com/barbarakogus">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=barbarakogus&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
