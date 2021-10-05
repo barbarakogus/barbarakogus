@@ -6,7 +6,7 @@ I am a Brazilian living in Sweden.<br>
 I graduated in Forest Engineering in 2011, and since I moved to Sweden, I have been studying programming.<br>
 Any help or tips is always welcome!<br>
 
-### 📬 Contact
+📬 Contact
 
 LinkedIn: www.linkedin.com/in/barbarakogus
 
