@@ -1,6 +1,6 @@
-## Hi there 👋
+Hi there 👋
 
-### ✍️ About me
+✍️ About me
 
 I am a Brazilian living in Sweden.<br>
 I graduated in Forest Engineering in 2011, and since I moved to Sweden, I have been studying programming.<br>
@@ -10,7 +10,7 @@ Any help or tips is always welcome!<br>
 
 LinkedIn: www.linkedin.com/in/barbarakogus
 
-### <b>:brain: &nbsp;Learning</b></summary><br/>
+<b>:brain: &nbsp;Learning</b></summary><br/>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank">  
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
