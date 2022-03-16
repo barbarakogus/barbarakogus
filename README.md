@@ -30,6 +30,9 @@ LinkedIn: www.linkedin.com/in/barbarakogus
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+    <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://user-images.githubusercontent.com/74309059/158705533-b174261d-5782-41ac-b8c8-ce7fb5da579c.png" alt="react"              width="40" height="40"/> 
+  </a>
 </p><br>
 
 ![Snake animation](https://github.com/barbarakogus/barbarakogus/blob/output/github-contribution-grid-snake.svg)
