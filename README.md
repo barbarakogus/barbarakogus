@@ -2,8 +2,8 @@ Hi there 👋
 
 ✍️ About me
 
-I am a Brazilian living in Sweden.<br>
-I graduated in Forest Engineering in 2011, and since I moved to Sweden, I have been studying programming.<br>
+I am a Full-stack Javascript developer with a background in forest engineering.<br> 
+I have been studying programming for the last two years, and recently I graduated from Salt Bootcamp.<br>
 Any help or tips is always welcome!<br>
 
 📬 Contact
@@ -32,6 +32,14 @@ LinkedIn: www.linkedin.com/in/barbarakogus
   </a>
     <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/74309059/158705533-b174261d-5782-41ac-b8c8-ce7fb5da579c.png" alt="react"              width="40" height="40"/> 
+  </a>
+   </a>
+    <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/redux.png" alt="react" width="40" height="40"/>
+  </a>
+  <a>
+    <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="40" height="40"/>
   </a>
 </p><br>
 
