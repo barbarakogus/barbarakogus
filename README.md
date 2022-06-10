@@ -8,6 +8,7 @@ Any help or tips is always welcome!<br>
 
 📬 Contact
 
+Portfolio: https://barbarakogus.com/
 LinkedIn: www.linkedin.com/in/barbarakogus
 
 <b>:brain: &nbsp;Learning</b></summary><br/>
