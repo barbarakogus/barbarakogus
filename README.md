@@ -2,9 +2,9 @@ Hi there 👋
 
 ✍️ About me
 
-I am a Full-stack Javascript developer with a background in forest engineering.<br> 
-I have been studying programming for the last two years, and recently I graduated from Salt Bootcamp.<br>
-Any help or tips is always welcome!<br>
+I am a Full-stack JavaScript developer with a foundation in forest engineering.<br> 
+Over the past three years, I've dedicated myself to honing my programming skills.<br>
+I constantly seek improvement, so any guidance or insights are greatly appreciated.
 
 📬 Contact
 
