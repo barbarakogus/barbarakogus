@@ -4,7 +4,7 @@ Hi there 👋
 
 I am a Full-stack JavaScript developer with a foundation in forest engineering.<br> 
 Over the past three years, I've dedicated myself to honing my programming skills.<br>
-I constantly seek improvement, so any guidance or insights are greatly appreciated.
+I always look for ways to improve, so I'd appreciate any tips or insights you'd like to share!
 
 📬 Contact
 
